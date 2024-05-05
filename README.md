@@ -7,6 +7,7 @@ A screenshot of the GUI can be found below:<br>
 The dictionary file is a plain-text file (utf-8 encoded). An example is [dutch_english_sample.pywrts](https://github.com/DaanWielens/pywrts/blob/main/dutch_english_sample.pywrts). The file can be edited in any text editor, but the extension must remain .pywrts.
 
 #### Ultra-short manual
+- Download all files and save them in the same folder
 - Run the script (i.e. through Spyder)
 - Click the __folder__ icon to browse for a dictionary file
 - The program will now ask for words to translate. Type the translation in the big text box and hit [Return] to submit the translation. For special characters that might not appear on a standard US-International keyboard, extra buttons have been added. 
